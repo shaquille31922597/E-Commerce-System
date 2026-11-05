@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@font-face {
+ font-family: 'GoogleSans';
+ src: url('./assets/fonts/GoogleSans-Medium.ttf') format('truetype');
+}
+
+
+@theme {
+ --font-googleSans: 'GoogleSans';
+}
